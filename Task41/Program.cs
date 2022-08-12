@@ -35,7 +35,7 @@ for (int i = 1; i < M; i++)
 
 }
 
-Console.WriteLine("вы ввели " + count + " чисел больше нуля.");
+Console.WriteLine("Вы ввели " + count + " чисел больше нуля.");
 
 
 
